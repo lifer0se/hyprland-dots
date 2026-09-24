@@ -1,0 +1,8 @@
+/*
+!/.gitignore
+!/.gitmodules
+!/.config
+/.config/*
+!/.config/hypr
+!/.config/hyprvim
+/.config/hypr/lua/plugins/*
