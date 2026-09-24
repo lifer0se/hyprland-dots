@@ -1,6 +1,7 @@
 /*
 !/.gitignore
 !/.gitmodules
+!README.md
 !/.config
 /.config/*
 !/.config/hypr
