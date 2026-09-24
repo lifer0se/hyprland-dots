@@ -1,9 +1,0 @@
-/*
-!/.gitignore
-!/.gitmodules
-!README.md
-!/.config
-/.config/*
-!/.config/hypr
-!/.config/hyprvim
-/.config/hypr/lua/plugins/*
