@@ -1,0 +1,6 @@
+require("amnesia.set")
+require("amnesia.maps")
+require("amnesia.lazy")
+require("amnesia.autocmd")
+require("amnesia.colors")
+require("amnesia.ezbookmarks")
